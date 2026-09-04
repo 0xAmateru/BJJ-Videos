@@ -1,2 +1,3 @@
 # BJJ-Videos
-A repository for all my Jiu Jitsu Videos
+This is a repo for hosting all and any Jiu Jitsu related content.
+Videos/Demonstrations of techniques, sequences, and counters.
